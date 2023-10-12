@@ -1,3 +1,12 @@
+<div>
+  <h1 align="center">
+    Oi, Tudo bem? Eu sou 
+    <a href="https://www.linkedin.com/in/lucas-honorio-40a624295/" target="_blank">Lucas Honorio 😁!</a>
+  </h1><br>
+  <div align="center">
+    <p>Atualmente estou cursando informática para internet no SESI/SENAI</p>
+  </div>
+</div>
 
 <div align="center" valign="top"><br>
   <h2>🚀 Linguagens e Ferramentas:</h2><br>
