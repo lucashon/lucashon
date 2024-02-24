@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/lucas-honorio-40a624295/" target="_blank">Lucas Honorio 😁!</a>
   </h1><br>
   <div align="center">
-    <p>Atualmente estou cursando informática para internet no SESI/SENAI</p>
+    <p>Sou Tecnico em Informatica Para Internet </p>
   </div>
 </div>
 
