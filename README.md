@@ -1,41 +1,41 @@
 <div align="center">
   <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="35" /> 
+    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35" /> 
     Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/lucas-honorio-40a624295/" target="_blank">Lucas Honorio</a>
   </h1>
-  <p><strong>Desenvolvedor Full Stack | Bacharelando em Sistemas de Informação</strong></p>
+  <p><strong>Software Developer | Full Stack Specialist</strong></p>
   
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Projetos-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Junior%20Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-High%20Performance%20Apps-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Multi--Framework-orange?style=for-the-badge" />
 </div>
 
 <br>
 
 ## 🚀 Sobre Mim
-Sou Técnico em Informática para Internet e atualmente curso Bacharelado em Sistemas de Informação. Tenho foco em criar soluções robustas e elegantes, unindo o poder do **Backend em .NET** com a agilidade do **Frontend em React/Angular**.
+Desenvolvedor Full Stack focado na construção de aplicações escaláveis e de alta performance. Atualmente, atuo profissionalmente utilizando um leque diversificado de tecnologias para entregar soluções completas, desde arquiteturas robustas em **NestJS** e **.NET** até interfaces reativas e otimizadas com **Next.js**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológica
 
-### 💻 Backend & Data
+### ⚡ Backend & Infraestrutura
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" title=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C# / .NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" title="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js / Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker / Docker Compose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL / PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux Ubuntu" />
 </div>
 
-### 🎨 Frontend & Design
+### 🎨 Frontend & SSR
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" title="Angular" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
 </div>
 
 ---
@@ -73,5 +73,5 @@ Sou Técnico em Informática para Internet e atualmente curso Bacharelado em Sis
 <br>
 
 <p align="center">
-  <em>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</em>
+  <em>"Comprometido com a excelência técnica e a entrega de valor através de código limpo."</em>
 </p>
