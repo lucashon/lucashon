@@ -1,32 +1,77 @@
-<div>
-  <h1 align="center">
-    Oi, Tudo bem? Eu sou 
-    <a href="https://www.linkedin.com/in/lucas-honorio-40a624295/" target="_blank">Lucas Honorio 😁!</a>
-  </h1><br>
-  <div align="center">
-    <p>Sou Tecnico em Informatica Para Internet </p>
-  </div>
+<div align="center">
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Gestures/Waving%20Hand.png" width="35" /> 
+    Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/lucas-honorio-40a624295/" target="_blank">Lucas Honorio</a>
+  </h1>
+  <p><strong>Desenvolvedor Full Stack | Bacharelando em Sistemas de Informação</strong></p>
+  
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Projetos-green?style=for-the-badge" />
 </div>
 
-<div align="center" valign="top"><br>
-  <h2>🚀 Linguagens e Ferramentas:</h2><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jypescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">  
-<img align="center" alt="Node.js" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="MySQL" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-</div><br>
+<br>
+
+## 🚀 Sobre Mim
+Sou Técnico em Informática para Internet e atualmente curso Bacharelado em Sistemas de Informação. Tenho foco em criar soluções robustas e elegantes, unindo o poder do **Backend em .NET** com a agilidade do **Frontend em React/Angular**.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Backend & Data
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+</div>
+
+### 🎨 Frontend & Design
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <h2>📊 Minhas estatísticas do github:</h2><br>
-    <a href="https://github.com/lucashon/lucashon.git"><img alt="lucashon Github Stats" height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=lucashon&show_icons=true&count_private=true&theme=holi&hide_border=true" /></a>
-    <a href="https://github.com/lucashon/lucashon.git"><img alt="lucashon Top Languages" height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashon&langs_count=8&count_private=true&layout=compact&theme=holi&hide_border=true&" /></a>
+  <a href="https://github.com/lucashon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucashon&show_icons=true&theme=holi&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  </a>
+  <a href="https://github.com/lucashon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashon&layout=compact&theme=holi&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-  <h2>📧 Contato:</h2><br>
-  <a href="https://www.linkedin.com/in/lucas-honorio-40a624295/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:lucas.honorio2916@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucashon&theme=holi&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-honorio-40a624295/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="mailto:lucas.honorio2916@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <em>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</em>
+</p>
